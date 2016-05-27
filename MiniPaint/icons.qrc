@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icons bouton/brush.png</file>
+        <file>icons bouton/circle46.png</file>
+        <file>icons bouton/line.png</file>
+        <file>icons bouton/pencil.png</file>
+        <file>icons bouton/rectangular43.png</file>
+        <file>icons bouton/palette-icone-6030-32.png</file>
+        <file>icons bouton/cursor_arrow.png</file>
+        <file>icons bouton/Eraser-icon.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>icons toolbar/document_new.png</file>
+        <file>icons toolbar/document_save.png</file>
+        <file>icons toolbar/open_folder_yellow.png</file>
+        <file>icons toolbar/printer.png</file>
+    </qresource>
+</RCC>
